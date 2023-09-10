@@ -23,7 +23,7 @@ The Internet Speed Test Application is a Python-based GUI application built usin
 - Modern UI styling for a visually appealing look.
 
 ## Screenshots
-
+![using a color picker](/internet_spped_check.gif)
 Include screenshots or GIFs of your application in action here.
 
 ## Installation
